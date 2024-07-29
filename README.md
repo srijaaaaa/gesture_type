@@ -4,6 +4,9 @@ Introducing the revolutionary new lens - a game-changer for blind people and sig
 https://drive.google.com/file/d/1600Ddu_jo30aggX1zQnOB9bTY94j7H_X/view?usp=share_link <br />
 Drive link for project.data file Please download this from drive and upload it to the same folder to run the project
 
+![Demo image](https://github.com/srijaaaaa/gesture_type/blob/main/gallery.jpg)
+
+
 **Inspiration:**<br />
 One fine day I went for a charity run, and I met one of my dearest friend who was born disabled. She always looks at her fellow friend busy on social media but can't find herself attached, so I decided to build something that can make her feel included through social media. It has been developed by using machine learning to classify various hand motions into American Sign Language in real time. This lens not only provides accurate and precise transcriptions but also displays the text in augmented reality, enhancing the user experience. With the added convenience of being able to toggle live predictions on and off simply by tapping the screen, this lens serves as a valuable tool for bridging the communication gap between hearing and deaf individuals.
 
